@@ -3,7 +3,7 @@
 
 # Plant Disease Classification
 
-This repository contains a machine learning project for classifying plant diseases using images of plant leaves. The project includes a Convolutional Neural Network (CNN) model trained on the PlantVillage dataset and a Streamlit web application for user interaction. The trained model achieves an accuracy of approximately 98% on the validation set.
+This repository contains a machine learning project for classifying plant diseases using images of plant leaves. The project includes a Convolutional Neural Network (CNN) model trained on the PlantVillage dataset and a Streamlit web application for user interaction. The trained model achieves an accuracy of approximately 90% on the validation set.
 
 ## Table of Contents
 
