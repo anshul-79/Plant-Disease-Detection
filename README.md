@@ -1,4 +1,5 @@
-Sure! Here is the revised README file with the accuracy information included in the introduction:
+![image](https://github.com/user-attachments/assets/b8fb80f6-35ca-4f88-8f41-81a2cf9efeb5)
+
 
 # Plant Disease Classification
 
